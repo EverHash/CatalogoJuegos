@@ -97,7 +97,39 @@ let arrayLetraCJuegosPS3 = [
                      ["recursos/letraC/conflict.webp", "Conflict Denied Ops", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,86 GB"],
                      ["recursos/letraC/csi.webp", "CSI Fatal Conspiracy", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 2,69 GB"],
                      ["recursos/letraC/riddick.webp", "Chronicles of Riddick: Assault on Dark Athena", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 8,97 GB"],
-                     ["recursos/letraC/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"],                                                                        
+                     ["recursos/letraC/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraDJuegosPS3 = [
+                     ["recursos/letraD/damnation.webp", "Damnation", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,96 GB"],
+                     ["recursos/letraD/dante.webp", "Dante's Inferno", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,14 GB"],
+                     ["recursos/letraD/darksector.webp", "Dark Sector", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 1,46 GB"],
+                     ["recursos/letraD/ds0.webp", "Demon's Souls", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,39 GB"],
+                     ["recursos/letraD/ds1.webp", "Dark Souls 1 Prepare To Die Edition", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,25 GB"],
+                     ["recursos/letraD/ds2.webp", "Dark Souls 2 Scholar Of The First Sin", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,37 GB"],
+                     ["recursos/letraD/void.webp", "Dark Void", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,99 GB"],
+                     ["recursos/letraD/siders1.webp", "Darksiders", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 18,80 GB"],
+                     ["recursos/letraD/siders2.jpg", "Darksiders 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,74 GB"],
+                     ["recursos/letraD/island.webp", "Dead Island GOTY", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,72 GB"],
+                     ["recursos/letraD/islandrip.webp", "Dead Island Riptide Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,51 GB"],
+                     ["recursos/letraD/dr2off.jpg", "Dead Rising 2 Off The Record", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,59 GB"],
+                     ["recursos/letraD/space1.webp", "Dead Space 1", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 9,83 GB"],
+                     ["recursos/letraD/space2.webp", "Dead Space 2 Limited Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 13,80 GB"],
+                     ["recursos/letraD/space3.jpg", "Dead Space 3 + DLC Historia", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 12,30 GB"],
+                     ["recursos/letraD/dtrr.webp", "Dead To Rights Retribution", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje, drogas <br> <b>En español</b> <br> <b>Peso:</b> 6,31 GB"],
+                     ["recursos/letraD/dp.webp", "Deadly Premonition Director's Cut", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 11,8 GB"],
+                     ["recursos/letraD/deadpool.webp", "Deadpool", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,58 GB"],
+                     ["recursos/letraD/def.webp", "Def Jam Icon", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En inglés</b> <br> <b>Peso:</b> 7,45 GB"],
+                     ["recursos/letraD/destiny.webp", "Destiny", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,63 GB"],
+                     ["recursos/letraD/deus.jpg", "Deus Ex Human Revolution Director's Cut", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 15,20 GB"],
+                     ["recursos/letraD/maycry.jpg", "Devil May Cry HD Collection", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 10,0 GB"],
+                     ["recursos/letraD/dmc4.jpg", "Devil May Cry 4", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 10,0 GB"],
+                     ["recursos/letraD/dirt.jpg", "Dirt 1", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 6,81 GB"],
+                     ["recursos/letraD/dirt2.webp", "Dirt 2", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 6,81 GB"],
+                     ["recursos/letraD/dirt3.webp", "Dirt 3 Complete Edition", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 6,78 GB"],
+                     ["recursos/letraD/dirtshowdown.webp", "Dirt Showdown", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,32 GB"],
+                     ["recursos/letraD/dishonored.webp", "Dishonored", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 11,50 GB"],
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
 export function crearOpcionJuego(array){
@@ -167,6 +199,18 @@ export function ponerJuegosLetraC(){
     for(let i = 0; i <= arrayLetraCJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraCJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraD(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraDJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraDJuegosPS3[i]);
 
     }
 
