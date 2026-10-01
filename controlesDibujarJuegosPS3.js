@@ -82,7 +82,22 @@ let arrayLetraCJuegosPS3 = [
                      ["recursos/letraC/codaw.jpg", "Call Of Duty Advanced Warfare", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 13,80 GB"],
                      ["recursos/letraC/codwaw.jpg", "Call Of Duty World At War", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 11,10 GB"],
                      ["recursos/letraC/codghosts.webp", "Call Of Duty Ghosts", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 11,10 GB"],
-                     //["recursos/letraC/codghosts.webp", "Call Of Duty Ghosts", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 11,10 GB"],                                                                      
+                     ["recursos/letraC/bo1.webp", "Call Of Duty Black Ops", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 17,90 GB"],
+                     ["recursos/letraC/bo2.png", "Call Of Duty Black Ops 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 19,90 GB"],
+                     ["recursos/letraC/bo3.webp", "Call Of Duty Black Ops 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 4,28 GB <br> <b>Nota:</b> Este juego no trae campaña, solo zombies y online"],
+                     ["recursos/letraC/cojblood.webp", "Call Of Juarez Bound In Blood", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,67 GB"],
+                     ["recursos/letraC/cojcartel.webp", "Call Of Juarez The Cartel", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,25 GB"],
+                     ["recursos/letraC/cojgunslinger.jpg", "Call Of Juarez Gunslinger", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>Idioma por determinar</b> <br> <b>Peso:</b> 1,93 GB"],
+                     ["recursos/letraC/america.webp", "Captain America Super Soldier", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 6,48 GB"],
+                     ["recursos/letraC/cartoon.webp", "Cartoon Network Punch Time Explosion XL", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,39 GB"],
+                     ["recursos/letraC/castle1.webp", "Castlevania Lords Of Shadow 1", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 11,90 GB"],
+                     ["recursos/letraC/castle2.webp", "Castlevania Lords Of Shadow 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,24 GB"],
+                     ["recursos/letraC/comdemned.webp", "Comdemned 2 Bloodshot", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia explicita <br> <b>En español</b> <br> <b>Peso:</b> 6,48 GB"],
+                     ["recursos/letraC/eden.jpg", "Child Of Eden", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 2,11 GB"],
+                     ["recursos/letraC/conflict.webp", "Conflict Denied Ops", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,86 GB"],
+                     ["recursos/letraC/csi.webp", "CSI Fatal Conspiracy", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 2,69 GB"],
+                     ["recursos/letraC/riddick.webp", "Chronicles of Riddick: Assault on Dark Athena", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 8,97 GB"],
+                     ["recursos/letraC/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"],                                                                        
                     ];
 
 export function crearOpcionJuego(array){
