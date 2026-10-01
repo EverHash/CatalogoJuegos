@@ -1,0 +1,70 @@
+.tarjetaConsola{
+
+    -webkit-transition:  -webkit-transform .2s ease-out;
+    -moz-transition: -moz-transform .2s ease-out;
+    -o-transition: -o-transform .2s ease-out;
+    -ms-transition: -ms-transform .2s ease-out; 
+    transition: transform .2s ease-out;
+
+}
+
+.tarjetaConsola:hover{
+
+   -webkit-transform:scale(1.1);
+   -moz-transform:scale(1.1);
+   -o-transform:scale(1.1);
+   transform:scale(1.1);
+   cursor: pointer;
+
+}
+
+.cajaOpciones{
+
+    margin-top: 11%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cajaJuegos{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    flex-flow: row wrap;
+    gap: 2rem;
+    margin-bottom: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+
+.card-body{
+
+    background-color: #A8DADC;
+
+}
+
+.card{
+
+    width: 18rem;
+
+}
+
+.cajaAbecedario{
+
+    margin-top: 1rem;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+
+}
+
+.nav-link:hover{
+
+    cursor: pointer;
+
+}
+
+.oculto{
+    display: none;
+}
