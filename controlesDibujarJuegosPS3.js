@@ -39,6 +39,8 @@ let arrayLetraAJuegosPS3 = [
 let arrayLetraBJuegosPS3 = [
                      ["recursos/letraB/bakuganBattle.jpg", "Bakugan Battle Brawlers", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,25 GB"],
                      ["recursos/letraB/bakuganCore.jpg", "Bakugan Defenders of the Core", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,80 GB"],
+                     ["recursos/letraB/bolt.webp", "Bolt", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 7,66 GB"],
+                     ["recursos/letraB/valiente.webp", "Brave (Valiente)", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 2,87 GB"],                     
                      ["recursos/letraB/batmanOrigins.webp", "Batman Arkham Origins", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 14,3 GB"],
                      ["recursos/letraB/batmanAsylum.webp", "Batman Arkham Asylum GOTY Edition", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 9,41 GB"],  
                      ["recursos/letraB/batmanCity.jpg", "Batman Arkham City GOTY Edition", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 9,15 GB"],
@@ -71,6 +73,10 @@ let arrayLetraBJuegosPS3 = [
                     ];
 
 let arrayLetraCJuegosPS3 = [
+                     ["recursos/letraC/carsMate.webp", "Cars La Copa Internacional de Mate", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3,59 GB"],
+                     ["recursos/letraC/carsRace.webp", "Cars Race o Rama", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 4,18 GB"],
+                     ["recursos/letraC/cars2.webp", "Cars 2", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3,76 GB"],
+                     ["recursos/letraC/cars3.webp", "Cars 3", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 4,72 GB"],                     
                      ["recursos/letraC/crysis1.webp", "Crysis", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 2,95 GB"],
                      ["recursos/letraC/crysis2.webp", "Crysis 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,78 GB"],
                      ["recursos/letraC/crysis3.jpg", "Crysis 3", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,77 GB"],
@@ -101,6 +107,11 @@ let arrayLetraCJuegosPS3 = [
                     ];
 
 let arrayLetraDJuegosPS3 = [
+                     ["recursos/letraD/ducktales.webp", "Ducktales Remastered", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 900 MB"],
+                     ["recursos/letraD/universe.webp", "Disney Universe", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,55 GB"],
+                     ["recursos/letraD/infinity1.webp", "Disney Infinity", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 8,28 GB"],
+                     ["recursos/letraD/infinity2.webp", "Disney Infinity 2.0", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 8,97 GB"],
+                     ["recursos/letraD/infinity3.jpg", "Disney Infinity 3.0", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 15,90 GB"],
                      ["recursos/letraD/damnation.webp", "Damnation", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,96 GB"],
                      ["recursos/letraD/dante.webp", "Dante's Inferno", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,14 GB"],
                      ["recursos/letraD/darksector.webp", "Dark Sector", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 1,46 GB"],
@@ -110,6 +121,7 @@ let arrayLetraDJuegosPS3 = [
                      ["recursos/letraD/void.webp", "Dark Void", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,99 GB"],
                      ["recursos/letraD/siders1.webp", "Darksiders", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 18,80 GB"],
                      ["recursos/letraD/siders2.jpg", "Darksiders 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,74 GB"],
+                     ["recursos/letraD/doom3.jpg", "Doom 3 BFG Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"],                     
                      ["recursos/letraD/island.webp", "Dead Island GOTY", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 5,72 GB"],
                      ["recursos/letraD/islandrip.webp", "Dead Island Riptide Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,51 GB"],
                      ["recursos/letraD/dr2off.jpg", "Dead Rising 2 Off The Record", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,59 GB"],
@@ -129,6 +141,51 @@ let arrayLetraDJuegosPS3 = [
                      ["recursos/letraD/dirt3.webp", "Dirt 3 Complete Edition", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 6,78 GB"],
                      ["recursos/letraD/dirtshowdown.webp", "Dirt Showdown", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,32 GB"],
                      ["recursos/letraD/dishonored.webp", "Dishonored", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 11,50 GB"],
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraEJuegosPS3 = [
+                     ["recursos/letraE/mickey.webp", "Epic Mickey 2 The Power Of Two", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6.55 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraGJuegosPS3 = [
+                     ["recursos/letraG/gforce.webp", "G-Force", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3.85 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraPJuegosPS3 = [
+                     ["recursos/letraP/phineas.webp", "Phineas y Ferb - A Través de la 2da Dimension", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 17,10 GB"],
+                     ["recursos/letraP/piratas.jpg", "Piratas del Caribe - En el Fin del Mundo", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,69 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraRJuegosPS3 = [
+                     ["recursos/letraR/rata.webp", "Ratatouille", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,80 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraTJuegosPS3 = [
+                     ["recursos/letraT/toy3.webp", "Toy Story 3 Toy Box Special Edition", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6,80 GB"],
+                     ["recursos/letraT/toyMania.webp", "Toy Story Mania", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 2,90 GB"],
+                     ["recursos/letraT/tron.webp", "Tron Evolution", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 4,87 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+    
+let arrayLetraUJuegosPS3 = [
+                     ["recursos/letraU/up.jpg", "Up", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> CORREGIR GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraWJuegosPS3 = [
+                     ["recursos/letraW/walle.webp", "Wall-E", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,13 GB"],
+
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
@@ -211,6 +268,90 @@ export function ponerJuegosLetraD(){
     for(let i = 0; i <= arrayLetraDJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraDJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraE(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraEJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraEJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraG(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraGJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraGJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraP(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraPJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraPJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraR(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraRJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraRJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraT(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraTJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraTJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraU(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraUJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraUJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraW(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraWJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraWJuegosPS3[i]);
 
     }
 
