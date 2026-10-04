@@ -112,6 +112,10 @@ let arrayLetraDJuegosPS3 = [
                      ["recursos/letraD/infinity1.webp", "Disney Infinity", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 8,28 GB"],
                      ["recursos/letraD/infinity2.webp", "Disney Infinity 2.0", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 8,97 GB"],
                      ["recursos/letraD/infinity3.jpg", "Disney Infinity 3.0", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 15,90 GB"],
+                     ["recursos/letraD/xenoverse.webp", "Dragon Ball Xenoverse", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 6,67 GB"],
+                     ["recursos/letraD/z.webp", "Dragon Ball Battle Of Z", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 2,13 GB"],
+                     ["recursos/letraD/limit.webp", "Dragon Ball Z Burst Limit", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,50 GB"],                     
+                     ["recursos/letraD/uTenkaichi.webp", "Dragon Ball Z Ultimate Tenkaichi", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 7,23 GB"],                     
                      ["recursos/letraD/damnation.webp", "Damnation", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,96 GB"],
                      ["recursos/letraD/dante.webp", "Dante's Inferno", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,14 GB"],
                      ["recursos/letraD/darksector.webp", "Dark Sector", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 1,46 GB"],
@@ -145,13 +149,40 @@ let arrayLetraDJuegosPS3 = [
                     ];
 
 let arrayLetraEJuegosPS3 = [
-                     ["recursos/letraE/mickey.webp", "Epic Mickey 2 The Power Of Two", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6.55 GB"],
+                     ["recursos/letraE/mickey.webp", "Epic Mickey 2 The Power Of Two", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6,55 GB"],
+                     ["recursos/letraE/chavo.webp", "El Chavo Kart", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> 2,13 GB"],
+                     ["recursos/letraE/lead.webp", "Eat Lead The Return Of Matt Hazard", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 5,69 GB"],
+                     ["recursos/letraE/enemy.webp", "Enemy Front", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 4,82 GB"],
+                     ["recursos/letraE/quake.webp", "Enemy Territory Quake Wars", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 9,75 GB"],
+                     ["recursos/letraE/escape.webp", "Escape Dead Island ", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,42 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraFJuegosPS3 = [
+                     ["recursos/letraF/skies.jpg", "Falling Skies - El Videojuego", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 2,29 GB"],
+                     ["recursos/letraF/falloutgoty.jpg", "Fallout 3 - GOTY Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraF/vegas.jpg", "Fallout New Vegas - Ultimate Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje, apuestas <br> <b>En español</b> <br> <b>Peso:</b> 12,70 GB"],
+                     ["recursos/letraF/far3.webp", "Far Cry 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje, apuestas <br> <b>En español</b> <br> <b>Peso:</b> 5,76 GB"],                     
+                     ["recursos/letraF/miedo.jpg", "F.E.A.R", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,83 GB"],
+                     ["recursos/letraF/miedo2.jpg", "F.E.A.R 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 4,04 GB"],
+                     ["recursos/letraF/miedo3.jpg", "F.E.A.R 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 13,00 GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
 let arrayLetraGJuegosPS3 = [
-                     ["recursos/letraG/gforce.webp", "G-Force", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3.85 GB"],
+                     ["recursos/letraG/gforce.webp", "G-Force", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3,85 GB"],
+                     ["recursos/letraG/origins.jpg", "God Of War Origins", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 22,30 GB <br> <b>Nota: </b> Trae Chains of Olympus y Ghost of Sparta"],
+                     ["recursos/letraG/warCollection.jpg", "God Of War Collection", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 23,20 GB <br> <b>Nota: </b> Trae el 1 y 2"],
+                     ["recursos/letraG/war3.webp", "God Of War 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 40,20 GB"],
+                     ["recursos/letraG/waras.webp", "God Of War Ascension", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 46,10 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraHJuegosPS3 = [
+                     ["recursos/letraH/hitman.jpg", "Hitman Absolution", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 16,30 GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
@@ -285,6 +316,18 @@ export function ponerJuegosLetraE(){
 
 }
 
+export function ponerJuegosLetraF(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraFJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraFJuegosPS3[i]);
+
+    }
+
+}
+
 export function ponerJuegosLetraG(){
 
     eliminarTodosLosChildren("contenedorJuegosPS3");
@@ -292,6 +335,18 @@ export function ponerJuegosLetraG(){
     for(let i = 0; i <= arrayLetraGJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraGJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraH(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraHJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraHJuegosPS3[i]);
 
     }
 
