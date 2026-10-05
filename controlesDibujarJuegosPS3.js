@@ -78,6 +78,7 @@ let arrayLetraBJuegosPS3 = [
                     ];
 
 let arrayLetraCJuegosPS3 = [
+                     ["recursos/letraC/crash4.webp", "Crash Bandicoot La Venganza de Cortex", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: <b/> Emulado de PS2"],
                      ["recursos/letraC/carsMate.webp", "Cars La Copa Internacional de Mate", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3,59 GB"],
                      ["recursos/letraC/carsRace.webp", "Cars Race o Rama", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 4,18 GB"],
                      ["recursos/letraC/cars2.webp", "Cars 2", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 3,76 GB"],
@@ -208,6 +209,7 @@ let arrayLetraGJuegosPS3 = [
                      ["recursos/letraG/ghost.jpg", "Ghostbusters", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 12,60 GB"],                     
                      ["recursos/letraG/gtav.webp", "Grand Theft Auto V", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, violencia, apuestas <br> <b>En español</b> <br> <b>Peso:</b> 17,40 GB"],                     
                      ["recursos/letraG/gta4.webp", "Grand Theft Auto IV & Episodes From Liberty City", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, violencia, drogas <br> <b>En español</b> <br> <b>Peso:</b> 17,60 GB"],                     
+                     ["recursos/letraG/liberty.webp", "Grand Theft Auto Liberty City Stories", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: <b/> Emulado de PS2"],                      
                      ["recursos/letraG/trono.jpg", "Game Of Thrones", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,07 GB"],                     
                      ["recursos/letraG/origins.jpg", "God Of War Origins", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 22,30 GB <br> <b>Nota: </b> Trae Chains of Olympus y Ghost of Sparta"],
                      ["recursos/letraG/warCollection.jpg", "God Of War Collection", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 23,20 GB <br> <b>Nota: </b> Trae el 1 y 2"],
