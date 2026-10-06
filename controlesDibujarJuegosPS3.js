@@ -243,7 +243,7 @@ let arrayLetraLJuegosPS3 = [
                     ];
 
 let arrayLetraOJuegosPS3 = [
-                     ["recursos/letraO/orange.webp", "The Orange Box", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 17,10 GB <br><b>Incluye: </b> Half-Life 2 y sus episodios, Portal 1 y Team Fortress 2"],
+                     ["recursos/letraO/orange.webp", "The Orange Box", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br><b>Incluye: </b> Half-Life 2 y sus episodios, Portal 1 y Team Fortress 2"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
