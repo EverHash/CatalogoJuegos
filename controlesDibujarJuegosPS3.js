@@ -252,6 +252,7 @@ let arrayLetraPJuegosPS3 = [
                      ["recursos/letraP/phineas.webp", "Phineas y Ferb - A Través de la 2da Dimension", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 17,10 GB"],
                      ["recursos/letraP/piratas.jpg", "Piratas del Caribe - En el Fin del Mundo", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,69 GB"],
                      ["recursos/letraP/portal.webp", "Portal 2", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje, Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraP/prototype.jpg", "Prototype", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, Violencia <br> <b>En español</b> <br> <b>Peso:</b> 12,00 GB"],                     
                      ["recursos/letraP/padrino1.webp", "El Padrino - The Don's Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, Violencia <br> <b>En español</b> <br> <b>Peso:</b> 8,92 GB"],
                      ["recursos/letraP/padrino2.webp", "El Padrino 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Lenguaje, Violencia <br> <b>En español</b> <br> <b>Peso:</b> 10,60 GB"],
 
