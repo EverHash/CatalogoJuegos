@@ -263,6 +263,7 @@ let arrayLetraPJuegosPS3 = [
 let arrayLetraRJuegosPS3 = [
                      ["recursos/letraR/rata.webp", "Ratatouille", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,80 GB"],
                      ["recursos/letraR/rapido.jpg", "Rapido y Furioso Confrontación", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 2,02 GB"],
+                     ["recursos/letraR/remember.webp", "Remember Me", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
