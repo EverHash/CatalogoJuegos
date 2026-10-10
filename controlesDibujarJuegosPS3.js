@@ -242,6 +242,12 @@ let arrayLetraLJuegosPS3 = [
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
+let arrayLetraMJuegosPS3 = [
+                     ["recursos/letraM/mgr.jpg", "Metal Gear Rising Revengeance", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
 let arrayLetraOJuegosPS3 = [
                      ["recursos/letraO/orange.webp", "The Orange Box", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br><b>Incluye: </b> Half-Life 2 y sus episodios, Portal 1 y Team Fortress 2"],
 
@@ -439,6 +445,18 @@ export function ponerJuegosLetraL(){
     for(let i = 0; i <= arrayLetraLJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraLJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraM(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraMJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraMJuegosPS3[i]);
 
     }
 
