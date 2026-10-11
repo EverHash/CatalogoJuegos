@@ -235,6 +235,12 @@ let arrayLetraHJuegosPS3 = [
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
+let arrayLetraKJuegosPS3 = [
+                     ["recursos/letraK/klonoa2.jpg", "Klonoa 2 Lunatea's Veil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
 let arrayLetraLJuegosPS3 = [
                      ["recursos/letraL/lluvia.webp", "Lluvia de Hamburguesas", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,49 GB"],
                      ["recursos/letraL/lanoire.webp", "L.A Noire Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 39,30 GB"],
@@ -433,6 +439,18 @@ export function ponerJuegosLetraH(){
     for(let i = 0; i <= arrayLetraHJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraHJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraK(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraKJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraKJuegosPS3[i]);
 
     }
 
