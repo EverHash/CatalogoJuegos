@@ -239,6 +239,8 @@ let arrayLetraKJuegosPS3 = [
                      ["recursos/letraK/klonoa1.webp", "Klonoa Door to Phantomile", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
                      ["recursos/letraK/klonoa2.jpg", "Klonoa 2 Lunatea's Veil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],
                      ["recursos/letraK/killzone1.webp", "Killzone", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 3,45 GB"],
+                     ["recursos/letraK/killzone2.jpg", "Killzone 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 12,30 GB"],
+                     ["recursos/letraK/killzone3.webp", "Killzone 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 41,80 GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
