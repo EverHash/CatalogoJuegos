@@ -255,12 +255,14 @@ let arrayLetraLJuegosPS3 = [
 
 let arrayLetraMJuegosPS3 = [
                      ["recursos/letraM/medievil.webp", "MediEvil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB"],
+                     ["recursos/letraM/soul.webp", "Murdered Soul Suspect", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
                      ["recursos/letraM/mgr.jpg", "Metal Gear Rising Revengeance", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
 let arrayLetraOJuegosPS3 = [
+                     ["recursos/letraO/okami.webp", "Okami HD", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraO/orange.webp", "The Orange Box", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br><b>Incluye: </b> Half-Life 2 y sus episodios, Portal 1 y Team Fortress 2"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
