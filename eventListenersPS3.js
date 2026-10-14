@@ -13,6 +13,7 @@ import {ponerJuegosLetra0,
         ponerJuegosLetraO, 
         ponerJuegosLetraP,
         ponerJuegosLetraR,
+        ponerJuegosLetraS,
         ponerJuegosLetraT,
         ponerJuegosLetraU,
         ponerJuegosLetraW} from "./controlesDibujarJuegosPS3.js";
@@ -32,6 +33,7 @@ document.getElementById("letraPS3M").addEventListener("click", ponerJuegosLetraM
 document.getElementById("letraPS3O").addEventListener("click", ponerJuegosLetraO);
 document.getElementById("letraPS3P").addEventListener("click", ponerJuegosLetraP);
 document.getElementById("letraPS3R").addEventListener("click", ponerJuegosLetraR);
+document.getElementById("letraPS3S").addEventListener("click", ponerJuegosLetraS);
 document.getElementById("letraPS3T").addEventListener("click", ponerJuegosLetraT);
 document.getElementById("letraPS3U").addEventListener("click", ponerJuegosLetraU);
 document.getElementById("letraPS3W").addEventListener("click", ponerJuegosLetraW);

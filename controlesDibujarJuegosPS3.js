@@ -255,7 +255,17 @@ let arrayLetraLJuegosPS3 = [
 
 let arrayLetraMJuegosPS3 = [
                      ["recursos/letraM/medievil.webp", "MediEvil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB"],
+                     ["recursos/letraM/mine.webp", "Minecraft", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraM/minecraftstory.webp", "Minecraft Story Mode The Complete Adventure", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraM/soul.webp", "Murdered Soul Suspect", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
+                     ["recursos/letraM/mirror.jpg", "Mirror's Edge", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
+                     ["recursos/letraM/mgs1.jpg", "Metal Gear Solid", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS1"],                     
+                     ["recursos/letraM/mgs2.webp", "Metal Gear Solid 2 Sons Of Liberty HD", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraM/mgs3.webp", "Metal Gear Solid 3 Snake Eater HD", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraM/mgs4.webp", "Metal Gear Solid 4 Guns Of The Patriots", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraM/mgsv1.webp", "Metal Gear Solid V Ground Zeroes", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraM/mgsv2.webp", "Metal Gear Solid V The Phantom Pain", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraM/mgspw.webp", "Metal Gear Solid Peace Walker", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraM/mgr.jpg", "Metal Gear Rising Revengeance", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
@@ -264,7 +274,9 @@ let arrayLetraMJuegosPS3 = [
 let arrayLetraOJuegosPS3 = [
                      ["recursos/letraO/okami.webp", "Okami HD", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraO/orange.webp", "The Orange Box", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br><b>Incluye: </b> Half-Life 2 y sus episodios, Portal 1 y Team Fortress 2"],
-
+                     ["recursos/letraO/ofrr.webp", "Operation Flashpoint Red River", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraO/ofdragon.webp", "Operation Flashpoint Dragon Rising", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
@@ -287,6 +299,13 @@ let arrayLetraRJuegosPS3 = [
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
+
+let arrayLetraSJuegosPS3 = [
+                     ["recursos/letraS/syndicate.webp", "Syndicate", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraS/specops.webp", "Spec Ops The Line", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];                    
 
 let arrayLetraTJuegosPS3 = [
                      ["recursos/letraT/toy3.webp", "Toy Story 3 Toy Box Special Edition", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6,80 GB"],
@@ -520,6 +539,18 @@ export function ponerJuegosLetraR(){
     for(let i = 0; i <= arrayLetraRJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraRJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraS(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraSJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraSJuegosPS3[i]);
 
     }
 
