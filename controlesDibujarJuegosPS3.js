@@ -78,6 +78,7 @@ let arrayLetraBJuegosPS3 = [
                     ];
 
 let arrayLetraCJuegosPS3 = [
+                     ["recursos/letraC/crash3.webp", "Crash Bandicoot 3 Warped", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],    
                      ["recursos/letraC/crash4.webp", "Crash Bandicoot La Venganza de Cortex", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],
                      ["recursos/letraC/twinsanity.jpg", "Crash Twinsanity", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],                     
                      ["recursos/letraC/nitro.jpg", "Crash Nitro Kart", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],                     
@@ -301,6 +302,7 @@ let arrayLetraRJuegosPS3 = [
                     ];
 
 let arrayLetraSJuegosPS3 = [
+                     ["recursos/letraS/split.webp", "Split/Second", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],    
                      ["recursos/letraS/syndicate.webp", "Syndicate", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/specops.webp", "Spec Ops The Line", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
