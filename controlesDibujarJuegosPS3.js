@@ -250,6 +250,7 @@ let arrayLetraKJuegosPS3 = [
 let arrayLetraLJuegosPS3 = [
                      ["recursos/letraL/lluvia.webp", "Lluvia de Hamburguesas", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,49 GB"],
                      ["recursos/letraL/legoIndiana1.jpg", "Lego Indiana Jones The Original Adventures", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/legoIndiana2.webp", "Lego Indiana Jones 2 The Adventure Continues", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/lanoire.webp", "L.A Noire Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 39,30 GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
@@ -307,6 +308,7 @@ let arrayLetraSJuegosPS3 = [
                      ["recursos/letraS/syndicate.webp", "Syndicate", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/specops.webp", "Spec Ops The Line", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/filter1.webp", "Syphon Filter", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
+                     ["recursos/letraS/filter2.webp", "Syphon Filter 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];                    
