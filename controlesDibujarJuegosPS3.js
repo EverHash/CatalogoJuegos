@@ -176,6 +176,7 @@ let arrayLetraDJuegosPS3 = [
 let arrayLetraEJuegosPS3 = [
                      ["recursos/letraE/mickey.webp", "Epic Mickey 2 The Power Of Two", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6,55 GB"],
                      ["recursos/letraE/chavo.webp", "El Chavo Kart", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> 2,13 GB"],
+                     ["recursos/letraE/sonata.webp", "Eternal Sonata", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraE/enemy.webp", "Enemy Front", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 4,82 GB"],
                      ["recursos/letraE/quake.webp", "Enemy Territory Quake Wars", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 9,75 GB"],
                      ["recursos/letraE/escape.webp", "Escape Dead Island ", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 4,42 GB"],
@@ -254,6 +255,8 @@ let arrayLetraLJuegosPS3 = [
                      ["recursos/letraL/legoBatman1.webp", "Lego Batman El Videojuego", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoBatman2.jpg", "Lego Batman 2 DC Super Heroes", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoBatman3.webp", "Lego Batman 3 Beyond Gotham", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/marvelA.jpg", "Lego Marvel Avengers", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/marvelS.webp", "Lego Marvel Super Heroes", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoIndiana1.jpg", "Lego Indiana Jones The Original Adventures", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoIndiana2.webp", "Lego Indiana Jones 2 The Adventure Continues", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/lanoire.webp", "L.A Noire Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 39,30 GB"],
