@@ -255,11 +255,23 @@ let arrayLetraLJuegosPS3 = [
                      ["recursos/letraL/legoBatman1.webp", "Lego Batman El Videojuego", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoBatman2.jpg", "Lego Batman 2 DC Super Heroes", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoBatman3.webp", "Lego Batman 3 Beyond Gotham", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/dimensions.webp", "Lego Dimensions", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/jurassic.webp", "Lego Jurassic World", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/piratas.jpg", "Lego Piratas del Caribe", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/hobbit.jpg", "Lego El Hobbit", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/anillos.jpg", "Lego El Señor de los Anillos", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/pelijuego.jpg", "Lego La Pelicula - El Videojuego", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/harry1.jpg", "Lego Harry Potter Years 1-4", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
+                     ["recursos/letraL/harry2.jpg", "Lego Harry Potter Years 5-7", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
                      ["recursos/letraL/marvelA.jpg", "Lego Marvel Avengers", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/marvelS.webp", "Lego Marvel Super Heroes", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/warsComplete.webp", "Lego Star Wars La Saga Completa", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/wars3.jpg", "Lego Star Wars III The Clone Wars", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/warsForce.webp", "Lego Star Wars The Force Awakens", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoIndiana1.jpg", "Lego Indiana Jones The Original Adventures", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoIndiana2.webp", "Lego Indiana Jones 2 The Adventure Continues", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/lanoire.webp", "L.A Noire Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 39,30 GB"],
+                     ["recursos/letraL/Legendary.jpg", "Legendary", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
@@ -307,6 +319,7 @@ let arrayLetraRJuegosPS3 = [
                      ["recursos/letraR/rata.webp", "Ratatouille", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,80 GB"],
                      ["recursos/letraR/rapido.jpg", "Rapido y Furioso Confrontación", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 2,02 GB"],
                      ["recursos/letraR/remember.webp", "Remember Me", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraR/ranchogoty.webp", "Red Dead Redemption GOTY Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje, Apuestas, Drogas <br> <b>En español</b> <br> <b>Peso:</b> 9,51 GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
