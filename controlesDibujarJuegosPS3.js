@@ -271,6 +271,8 @@ let arrayLetraLJuegosPS3 = [
                      ["recursos/letraL/legoIndiana1.jpg", "Lego Indiana Jones The Original Adventures", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/legoIndiana2.webp", "Lego Indiana Jones 2 The Adventure Continues", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/lanoire.webp", "L.A Noire Complete Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 39,30 GB"],
+                     ["recursos/letraL/london.jpg", "Londres 2012", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> N/A <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraL/guardians.jpg", "Legend of the Guardians: The Owls of Ga'Hoole", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraL/Legendary.jpg", "Legendary", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
@@ -320,7 +322,9 @@ let arrayLetraRJuegosPS3 = [
                      ["recursos/letraR/rapido.jpg", "Rapido y Furioso Confrontación", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 2,02 GB"],
                      ["recursos/letraR/remember.webp", "Remember Me", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraR/ranchogoty.webp", "Red Dead Redemption GOTY Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje, Apuestas, Drogas <br> <b>En español</b> <br> <b>Peso:</b> 9,51 GB"],
-
+                     ["recursos/letraR/residente0.jpg", "Resident Evil 0 HD Remaster", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,90 GB"],                     
+                     ["recursos/letraR/residente1.jpg", "Resident Evil HD Remaster", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,40 GB"],
+                     ["recursos/letraR/residente4.webp", "Resident Evil 4 HD", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,30 GB"],                     
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
