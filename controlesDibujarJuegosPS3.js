@@ -339,6 +339,7 @@ let arrayLetraRJuegosPS3 = [
                     ];
 
 let arrayLetraSJuegosPS3 = [
+                     ["recursos/letraS/shovel.jpg", "Shovel Knight", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraS/split.webp", "Split/Second", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],    
                      ["recursos/letraS/syndicate.webp", "Syndicate", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/specops.webp", "Spec Ops The Line", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
