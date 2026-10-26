@@ -241,8 +241,8 @@ let arrayLetraHJuegosPS3 = [
                     ];
 
 let arrayLetraIJuegosPS3 = [
-                     ["recursos/letraI/infame.webp", "inFamous", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],
-                     ["recursos/letraI/infame2.webp", "inFamous 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],
+                     ["recursos/letraI/infame.webp", "inFamous", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,12 GB <br>"],
+                     ["recursos/letraI/infame2.webp", "inFamous 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 14,20 GB <br>"],
                      ["recursos/letraI/festival.webp", "inFamous Festival of Blood", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],                     
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
