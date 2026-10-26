@@ -240,6 +240,14 @@ let arrayLetraHJuegosPS3 = [
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
+let arrayLetraIJuegosPS3 = [
+                     ["recursos/letraI/infame.webp", "inFamous", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],
+                     ["recursos/letraI/infame2.webp", "inFamous 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],
+                     ["recursos/letraI/festival.webp", "inFamous Festival of Blood", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br>"],                     
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
 let arrayLetraKJuegosPS3 = [
                      ["recursos/letraK/klonoa1.webp", "Klonoa Door to Phantomile", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
                      ["recursos/letraK/klonoa2.jpg", "Klonoa 2 Lunatea's Veil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],
@@ -510,6 +518,18 @@ export function ponerJuegosLetraH(){
     for(let i = 0; i <= arrayLetraHJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraHJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraI(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraIJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraIJuegosPS3[i]);
 
     }
 

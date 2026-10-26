@@ -7,6 +7,7 @@ import {ponerJuegosLetra0,
         ponerJuegosLetraF,
         ponerJuegosLetraG, 
         ponerJuegosLetraH, 
+        ponerJuegosLetraI, 
         ponerJuegosLetraK, 
         ponerJuegosLetraL, 
         ponerJuegosLetraM, 
@@ -27,6 +28,7 @@ document.getElementById("letraPS3E").addEventListener("click", ponerJuegosLetraE
 document.getElementById("letraPS3F").addEventListener("click", ponerJuegosLetraF);
 document.getElementById("letraPS3G").addEventListener("click", ponerJuegosLetraG);
 document.getElementById("letraPS3H").addEventListener("click", ponerJuegosLetraH);
+document.getElementById("letraPS3I").addEventListener("click", ponerJuegosLetraI);
 document.getElementById("letraPS3K").addEventListener("click", ponerJuegosLetraK);
 document.getElementById("letraPS3L").addEventListener("click", ponerJuegosLetraL);
 document.getElementById("letraPS3M").addEventListener("click", ponerJuegosLetraM);
