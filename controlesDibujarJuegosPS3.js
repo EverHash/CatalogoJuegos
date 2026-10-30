@@ -249,6 +249,12 @@ let arrayLetraIJuegosPS3 = [
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
+let arrayLetraJJuegosPS3 = [
+                     ["recursos/letraJ/just.jpg", "Just Cause 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,56 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
 let arrayLetraKJuegosPS3 = [
                      ["recursos/letraK/klonoa1.webp", "Klonoa Door to Phantomile", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
                      ["recursos/letraK/klonoa2.jpg", "Klonoa 2 Lunatea's Veil", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Emulado de PS2"],
@@ -531,6 +537,18 @@ export function ponerJuegosLetraI(){
     for(let i = 0; i <= arrayLetraIJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraIJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraJ(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraJJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraJJuegosPS3[i]);
 
     }
 
