@@ -337,6 +337,9 @@ let arrayLetraRJuegosPS3 = [
                      ["recursos/letraR/rapido.jpg", "Rapido y Furioso Confrontación", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> 2,02 GB"],
                      ["recursos/letraR/resonance.webp", "Resonance of Fate", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraR/remember.webp", "Remember Me", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraR/resistance1.webp", "Resistance Fall Of Man", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraR/resistance2.webp", "Resistance 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
+                     ["recursos/letraR/resistance3.webp", "Resistance 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                      
                      ["recursos/letraR/ranchogoty.webp", "Red Dead Redemption GOTY Edition", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje, Apuestas, Drogas <br> <b>En español</b> <br> <b>Peso:</b> 9,51 GB"],
                      ["recursos/letraR/residente0.jpg", "Resident Evil 0 HD Remaster", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 3,90 GB"],                     
                      ["recursos/letraR/residente1.jpg", "Resident Evil HD Remaster", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,40 GB"],
@@ -383,6 +386,12 @@ let arrayLetraUJuegosPS3 = [
 
 let arrayLetraWJuegosPS3 = [
                      ["recursos/letraW/walle.webp", "Wall-E", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 5,13 GB"],
+
+                     //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
+                    ];
+
+let arrayLetraZJuegosPS3 = [
+                     ["recursos/letraZ/zone.webp", "Zone Of The Enders HD Collection", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
@@ -671,6 +680,18 @@ export function ponerJuegosLetraW(){
     for(let i = 0; i <= arrayLetraWJuegosPS3.length - 1; i++){
 
         crearOpcionJuego(arrayLetraWJuegosPS3[i]);
+
+    }
+
+}
+
+export function ponerJuegosLetraZ(){
+
+    eliminarTodosLosChildren("contenedorJuegosPS3");
+
+    for(let i = 0; i <= arrayLetraZJuegosPS3.length - 1; i++){
+
+        crearOpcionJuego(arrayLetraZJuegosPS3[i]);
 
     }
 
