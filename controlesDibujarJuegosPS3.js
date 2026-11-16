@@ -313,6 +313,10 @@ let arrayLetraMJuegosPS3 = [
 
 let arrayLetraNJuegosPS3 = [
                      ["recursos/letraN/nier.webp", "Nier Replicant", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB <br> <b>Nota: </b> Audio en japonés, subtítulos en español"],
+                     ["recursos/letraN/ninja1.webp", "Ninja Gaiden Sigma", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraN/ninja2.webp", "Ninja Gaiden Sigma 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
+                     ["recursos/letraN/ninja3.jpg", "Ninja Gaiden 3 Razor's Edge", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
                     ];
 
