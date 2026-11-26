@@ -373,6 +373,7 @@ let arrayLetraSJuegosPS3 = [
                      ["recursos/letraS/syndicate.webp", "Syndicate", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/specops.webp", "Spec Ops The Line", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
                      ["recursos/letraS/serio.webp", "Serious Sam 3 BFE", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
+                     ["recursos/letraS/slender.webp", "Slender: The Arrival", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Miedo <br> <b>En español</b> <br> <b>Peso:</b> 654,10 MB"],                     
                      ["recursos/letraS/filter1.webp", "Syphon Filter", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
                      ["recursos/letraS/filter2.webp", "Syphon Filter 2", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
                      ["recursos/letraS/filter3.jpg", "Syphon Filter 3", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? MB <br> <b>Nota: </b> Emulado de PS1"],
