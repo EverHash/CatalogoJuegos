@@ -383,6 +383,7 @@ let arrayLetraTJuegosPS3 = [
                      ["recursos/letraT/toy3.webp", "Toy Story 3 Toy Box Special Edition", "<b>Edad recomendada:</b> 7+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 6,80 GB"],
                      ["recursos/letraT/toyMania.webp", "Toy Story Mania", "<b>Edad recomendada:</b> 3+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 2,90 GB"],
                      ["recursos/letraT/tron.webp", "Tron Evolution", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> PEGI ESTA CAIDO <br> <b>En español</b> <br> <b>Peso:</b> 4,87 GB"],
+                     ["recursos/letraT/aw2.jpg", "Tom Clancy's Advanced Warfighter 2", "<b>Edad recomendada:</b> 16+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],                     
                      ["recursos/letraT/ghostRecon.jpg", "Tom Clancy's Ghost Recon Future Soldier", "<b>Edad recomendada:</b> 18+ <br> <b>Contenido:</b> Violencia, Lenguaje <br> <b>En español</b> <br> <b>Peso:</b> ? GB"],
 
                      //["recursos/letraD/narnia.webp", "Las Cronicas de Narnia: El Principe Caspian", "<b>Edad recomendada:</b> 12+ <br> <b>Contenido:</b> Violencia <br> <b>En español</b> <br> <b>Peso:</b> 7,27 GB"]                                                                        
